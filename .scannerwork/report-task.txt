@@ -1,0 +1,6 @@
+projectKey=STQAProject
+serverUrl=http://localhost:9000
+serverVersion=26.6.0.123539
+dashboardUrl=http://localhost:9000/dashboard?id=STQAProject
+ceTaskId=eebef055-674d-4c68-aabe-a2acbb29b65f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=eebef055-674d-4c68-aabe-a2acbb29b65f
